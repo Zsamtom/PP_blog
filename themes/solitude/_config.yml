@@ -521,15 +521,15 @@ footer:
        Bilibili: https://space.bilibili.com/1329819902 || fab fa-bilibili
        Douyin: https://v.douyin.com/iJsLc8jt/ || fab fa-tiktok
   # 友情链接
-  group:
+  # group:
     # 导航:
-       Archives: /archives/
-       Categories: /categories/
-       Tags: /tags/
+       # Archives: /archives/
+       # Categories: /categories/
+       # Tags: /tags/
     # 排列:
-       Cookies: /cookies/
-       Privacy: /privacy/
-       Copyright: /copyright/
+       # Cookies: /cookies/
+       # Privacy: /privacy/
+       # Copyright: /copyright/
 
   # 随机友链
   randomlink: false # 随机友链
@@ -580,7 +580,7 @@ meting_api: "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth
 # Capsule music
 # 音乐胶囊
 capsule:
-  enable: false
+  enable: true
   # 歌单 ID / 单曲 ID
   id: 5144842535
   # 服务商：netease / qq / xiami / kugou / baidu
