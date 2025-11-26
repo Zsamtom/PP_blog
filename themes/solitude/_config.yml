@@ -515,21 +515,21 @@ footer:
   information:
     author: false # img url / false
     left:
-      # Github: https://github.com/everfu || fab fa-github # 名称: 链接 || 图标
-      # Mail: mailto:o@everfu.org || far fa-envelope
+       Github: https://github.com/everfu || fab fa-github # 名称: 链接 || 图标
+       Mail: mailto:o@everfu.org || far fa-envelope
     right:
-      # Bilibili: https://space.bilibili.com/1329819902 || fab fa-bilibili
-      # Douyin: https://v.douyin.com/iJsLc8jt/ || fab fa-tiktok
+       Bilibili: https://space.bilibili.com/1329819902 || fab fa-bilibili
+       Douyin: https://v.douyin.com/iJsLc8jt/ || fab fa-tiktok
   # 友情链接
   group:
     # 导航:
-    #   Archives: /archives/
-    #   Categories: /categories/
-    #   Tags: /tags/
+       Archives: /archives/
+       Categories: /categories/
+       Tags: /tags/
     # 排列:
-    #   Cookies: /cookies/
-    #   Privacy: /privacy/
-    #   Copyright: /copyright/
+       Cookies: /cookies/
+       Privacy: /privacy/
+       Copyright: /copyright/
 
   # 随机友链
   randomlink: false # 随机友链
