@@ -1,10 +1,17 @@
-[TOC]
 ---
-title: Hello World
+title: Python学习(bilibili笔记)
+date: 2025-01-01 12:00:00
+updated: 2025-01-01 12:00:00
+tags: 
+  - Python
+  - 笔记
+categories:
+  - 学习
+  - Python
+description: bilibili Python 学习笔记总结
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-### 变量
+### 1 变量
 
 计算机中的存储空间，用于保存数据
 
